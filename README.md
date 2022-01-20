@@ -4,30 +4,24 @@
     <strong>« Explore Project <a href="https://botcity-dev.github.io/bot-python-template/">docs</a> »</strong>
     <br>
     <br>
-    <a href="https://github.com/botcity-dev/bot-python-template/issues/new?template=bug-report.md">Report bug</a>
+    <a href="https://github.com/matheusmatos221/AutoQueueLoL/issues/new?template=bug-report.md">Report bug</a>
     ·
-    <a href="https://github.com/botcity-dev/bot-python-template/issues/new?template=feature-request.md&labels=request">Request feature</a>
+    <a href="https://github.com/matheusmatos221/AutoQueueLoL/issues/new?template=feature-request.md&labels=request">Request feature</a>
     ·
-    <a href="https://github.com/botcity-dev/bot-python-template/blob/main/.github/CONTRIBUTING.md">How to Contribute</a>
+    <a href="https://github.com/matheusmatos221/AutoQueueLoL/blob/main/.github/CONTRIBUTING.md">How to Contribute</a>
     ·
-    <a href="https://github.com/botcity-dev/bot-python-template/blob/main/.github/SUPPORT.md">Support</a>
+    <a href="https://github.com/matheusmatos221/AutoQueueLoL/blob/main/.github/SUPPORT.md">Support</a>
   </p>
 </p>
 <br>
 
 # Prerequisites
-* Python 3.7+
-* cookiecutter
+* Python 3.10+
+* pyautogui
 
 # Getting Started
 
-This repository contains a cookiecutter template for generating a Bot using 
-BotCity's Python Framework.
-
-To create a templated project all you need to do is:
-```
-cookiecutter https://github.com/botcity-dev/bot-python-template
-```
+This repository contains a autoqueue bot for league of legends.
 
 # Building the Documentation Locally
 In order to build the documentation you will need to install some dependencies
